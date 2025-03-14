@@ -1,0 +1,3 @@
+-Los códigos únicamente envían datos del CubeSat (TX) hacia la Estación terrena (RX). No en visceversa
+-La distancia de comunicación, a comparación de los módulos LoRa anteriores, es más larga y óptima. Se realizó una prueba teniendo un LoRa en el salón de Info UNI 
+y pudo enviar datos al otro LoRa que se encontraba casi por puerta 6. Esto debido a la potencia de transmisión y omnidireccionalidad de la antena
